@@ -22,7 +22,7 @@ Configure your target server in ./spec/features/spec_helper:
 
 ``` 
 # configure which host to call up on
-Capybara.app_host = "http://localhost:3000.com"
+Capybara.app_host = "http://localhost:3000"
 ```
 
 Now, run the newsletter test (Automatically a browser will pop up)
