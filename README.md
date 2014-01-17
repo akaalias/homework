@@ -37,7 +37,7 @@ See it fail
 Failure/Error: expect(page).to have_content "Sign up"
 ```
 
-Begin "fixing" the tests by implementing a web page (again, *in whatever language, method and server you want*) that has a button called "Sign up"
+Check out the test (https://github.com/akaalias/homework/blob/master/spec/features/newsletter_spec.rb) and *begin "fixing"* the tests by implementing a web page (again, *in whatever language, method and server you want*) that has a button called "Sign up"
 
 ```
 [...]
