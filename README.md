@@ -12,6 +12,12 @@ This basically turns around the idea of learning to code by putting the end-user
 
 ### An example session:
 
+Make sure you have all gems installed by running bundler
+
+```
+bundle install
+```
+
 Configure your target server in ./spec/features/spec_helper:
 
 ``` 
