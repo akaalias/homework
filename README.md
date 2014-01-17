@@ -4,7 +4,7 @@
 
 Use pre-made integration tests to learn how to code functional websites by focussing primarily on "how it should work" and only secondly on "how this is built".
 
-The tests are run completely independently of whatever web-server, programming-language or framework is used to solve the 'problems' provided by the tests. 
+Homework tests are run completely independently of whatever web-server, programming-language or framework is used to solve the 'problems' provided by the tests. 
 
 It is left to the user to select server, technology, language etc. to solve the problem at hand.
 
