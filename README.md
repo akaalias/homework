@@ -17,22 +17,24 @@ Configure your target server in ./spec/features/spec_helper:
 ``` 
 # configure which host to call up on
 Capybara.app_host = "http://localhost:3000.com"
-
+```
 
 Now, run the newsletter test (Automatically a browser will pop up)
 
 ```
 rspec ./spec/features/newsletter_spec.rb
-
+```
 
 See it fail
 
 ```
 Failure/Error: expect(page).to have_content "Sign up"
+```
 
-Begin "fixing" the tests by implementing a web page (again, in whatever language and server you want) that has a button called "Sign up"
+Begin "fixing" the tests by implementing a web page (again, *in whatever language, method and server you want*) that has a button called "Sign up"
 
 ```
 [...]
 <input type="submit" value="Sign up">
 [...]
+```
