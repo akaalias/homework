@@ -1,6 +1,6 @@
 # Homework
 
-## Learn Website Coding Through Testing
+## Learn Web Development Through Testing
 
 Use pre-made integration tests to learn how to code functional websites by focussing primarily on "how it should work" and only secondly on "how this is built".
 
@@ -37,7 +37,7 @@ See it fail
 Failure/Error: expect(page).to have_content "Sign up"
 ```
 
-Check out the test (https://github.com/akaalias/homework/blob/master/spec/features/newsletter_spec.rb) and *begin "fixing"* the tests by implementing a web page (again, *in whatever language, method and server you want*) that has a button called "Sign up"
+Check out the test (https://github.com/akaalias/homework/blob/master/spec/features/newsletter_spec.rb) and *begin "fixing"* the tests by implementing a web page (again, *in whatever language, method and server you want*) that has a button called "Sign up". In fact, if you're starting with this test, you might not even have a web-server running! So, you have to figure that out as well. etc. etc.
 
 ```
 [...]
