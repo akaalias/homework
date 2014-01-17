@@ -10,11 +10,12 @@ So, this basically turns around the idea of learning to code by putting the end-
 
 ### An example session:
 
-1. Configure your target server in ./spec/features/spec_helper:
+Configure your target server in ./spec/features/spec_helper:
+
 ``` 
 # configure which host to call up on
 Capybara.app_host = "http://localhost:3000.com"
 
-2. Run an example homework 
+Run an example homework 
 ```
 rspec ./spec/features/newsletter_spec.rb
