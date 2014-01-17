@@ -1,6 +1,6 @@
 # Homework
 
-## Learning Web Development Through Integration Testing
+## Learn Coding Through Testing
 
 Use pre-made integration tests to learn how to code functional websites by focussing primarily on "how it should work" and only secondly on "how this is built".
 
