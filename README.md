@@ -18,7 +18,7 @@ Make sure you have all gems installed by running bundler
 bundle install
 ```
 
-Configure your target server in ./spec/features/spec_helper:
+Configure your target server in ./spec/spec_helper:
 
 ``` 
 # configure which host to call up on

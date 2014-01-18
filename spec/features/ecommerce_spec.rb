@@ -29,7 +29,7 @@ describe "Let People View a Product and Buy It", :type => :feature, :js => true 
     within ("form") do
 	    expect(page).to have_content "Credit card"
 	    expect(page).to have_content "CVC"
-	    # etc...
-	end
+      # TBD
+    end
   end    
 end
